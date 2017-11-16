@@ -1,0 +1,11 @@
+C:\Users\ifeanyi\Desktop\Promises\bin\Debug\netcoreapp2.0\Promises.deps.json
+C:\Users\ifeanyi\Desktop\Promises\bin\Debug\netcoreapp2.0\Promises.runtimeconfig.json
+C:\Users\ifeanyi\Desktop\Promises\bin\Debug\netcoreapp2.0\Promises.runtimeconfig.dev.json
+C:\Users\ifeanyi\Desktop\Promises\bin\Debug\netcoreapp2.0\Promises.dll
+C:\Users\ifeanyi\Desktop\Promises\bin\Debug\netcoreapp2.0\Promises.pdb
+C:\Users\ifeanyi\Desktop\Promises\obj\Debug\netcoreapp2.0\Promises.csproj.CoreCompileInputs.cache
+C:\Users\ifeanyi\Desktop\Promises\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ifeanyi\Desktop\Promises\obj\Debug\netcoreapp2.0\Promises.AssemblyInfoInputs.cache
+C:\Users\ifeanyi\Desktop\Promises\obj\Debug\netcoreapp2.0\Promises.AssemblyInfo.cs
+C:\Users\ifeanyi\Desktop\Promises\obj\Debug\netcoreapp2.0\Promises.dll
+C:\Users\ifeanyi\Desktop\Promises\obj\Debug\netcoreapp2.0\Promises.pdb
